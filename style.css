@@ -1,12 +1,13 @@
-haeder__title {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+.header__title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.content__title {
     font-size: 24px;
 }
 
-content__title {
-    font-size: 16px;
-}
-
-content__text {
-    font-size: 10px;
+.content__text {
+    font-size: 18px;
 }
